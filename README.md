@@ -1,4 +1,4 @@
-# PLC-3---Tank-Level-Control-Using-ABB-PLC-Software
+# PLC-3---TANK-LEVEL-CONTROL-USING-ABB-PLC-Software
 
 ## Aim
 To control the water level in a tank automatically using an ABB PLC by starting and stopping a pump based on level sensor signals.
